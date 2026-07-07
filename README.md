@@ -1,4 +1,3 @@
-# calculadora-java
 # Calculadora Java
 
 Calculadora desktop desenvolvida em **Java** utilizando **Java Swing** para criação da interface gráfica.
