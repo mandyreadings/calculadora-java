@@ -24,18 +24,6 @@ O projeto foi desenvolvido como prática dos conceitos de programação orientad
 
 ![Calculadora Java](screenshots/print.png)
 
-## 📂 Estrutura do projeto
-
-Calculadora
-│
-├── src
-│ └── calculadora
-│ └── Calculadora.java
-│
-├── nbproject
-├── build.xml
-└── README.md
-
 ## ▶️ Como executar
 
 1. Clone este repositório:
