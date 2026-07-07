@@ -22,7 +22,7 @@ O projeto foi desenvolvido como prática dos conceitos de programação orientad
 
 ## Demonstração
 
-![Calculadora Java](screenshots/printCalculadora.png)
+![Calculadora Java](screenshots/print.png)
 
 ## 📂 Estrutura do projeto
 
